@@ -1,0 +1,14 @@
+E:\BridgeLabz\Codes\Day3\bin\Debug\net7.0\Day3.exe
+E:\BridgeLabz\Codes\Day3\bin\Debug\net7.0\Day3.deps.json
+E:\BridgeLabz\Codes\Day3\bin\Debug\net7.0\Day3.runtimeconfig.json
+E:\BridgeLabz\Codes\Day3\bin\Debug\net7.0\Day3.dll
+E:\BridgeLabz\Codes\Day3\bin\Debug\net7.0\Day3.pdb
+E:\BridgeLabz\Codes\Day3\obj\Debug\net7.0\Day3.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz\Codes\Day3\obj\Debug\net7.0\Day3.AssemblyInfoInputs.cache
+E:\BridgeLabz\Codes\Day3\obj\Debug\net7.0\Day3.AssemblyInfo.cs
+E:\BridgeLabz\Codes\Day3\obj\Debug\net7.0\Day3.csproj.CoreCompileInputs.cache
+E:\BridgeLabz\Codes\Day3\obj\Debug\net7.0\Day3.dll
+E:\BridgeLabz\Codes\Day3\obj\Debug\net7.0\refint\Day3.dll
+E:\BridgeLabz\Codes\Day3\obj\Debug\net7.0\Day3.pdb
+E:\BridgeLabz\Codes\Day3\obj\Debug\net7.0\Day3.genruntimeconfig.cache
+E:\BridgeLabz\Codes\Day3\obj\Debug\net7.0\ref\Day3.dll
