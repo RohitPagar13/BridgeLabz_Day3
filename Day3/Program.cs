@@ -2,27 +2,46 @@
 {
     class MyClass
     {
-        private int id, name;
+        private int id;
+        private string name;
 
-        public MyClass ()
+        public MyClass()
         {
-            
+            this.id = 1;
+            this.name = "Rohit";
+        }
+
+        public MyClass(int id, string name)
+        {
+            this.id = id;
+            this.name = name;
+        }
+
+        // method overloading
+        public void add(int a, int b)
+        {
+            Console.WriteLine(a + b);
+        }
+
+        public void add(int a, int b, int c)
+        {
+            Console.WriteLine(a + b + c);
         }
     }
     internal class Program
     {
         // Method //
         // default parameter //
-        static void mymethod(string str="sir")
+        static void mymethod(string str = "sir")
         {
-            Console.WriteLine("Hello"+str);
-     
+            Console.WriteLine("Hello" + str);
+
         }
 
         // named Arguments //
         static void namedarg(string firstname, string? middlename, string lastname)
         {
-            Console.WriteLine("My name is "+ firstname +" "+ middlename + " " + lastname + " ");
+            Console.WriteLine("My name is " + firstname + " " + middlename + " " + lastname + " ");
         }
 
 
@@ -64,8 +83,10 @@
             namedarg(lastname: lastname, firstname: firstname, middlename: middlename);*/
 
 
-            // method overloading //
-            
+            MyClass myclass = new MyClass();
+            myclass.add(1, 2);
+            myclass.add(2, 3, 4);
+
         }
     }
 }
